@@ -17,7 +17,7 @@
 - 👋 Hi, I am a Frontend Web Dev Student
 - 👀 I’m interested in keep things simple, staying agile and responsive. I strive to learn new technologies and look for ways to improve in this rapidly changing industry.
 - 🌱 I’m currently diving into tech studies.
-- 💞️ I’m looking to collaborate on small projects using HTML, CSS and Javascript.
+- 💞️ I’m looking to collaborate on small projects using HTML, CSS, Javascript and React.
 - 📫 How to reach me : julia.collasius@gmail.com or via LinkedIn.
 
   <h2> Languages and Tools </h2
@@ -27,4 +27,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
 
